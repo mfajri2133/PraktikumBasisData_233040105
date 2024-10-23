@@ -1,0 +1,22 @@
+INSERT INTO mahasiswa (NPM, nama, tanggal_lahir, alamat, no_hp, status_mahasiswa)
+VALUES 
+(20061001, 'Ucup', '2006-01-03', 'Jalan Mawar No. 1', 812345678, 1),
+(20061002, 'Budi', '2005-12-15', 'Jalan Melati No. 22', 812345679, 1),
+(20061003, 'Siti', '2004-11-20', 'Jalan Anggrek No. 12', 812345680, 0),
+(20061004, 'Andi', '2003-09-11', 'Jalan Kenanga No. 5', 812345681, 1),
+(20061005, 'Dewi', '2005-02-28', 'Jalan Dahlia No. 9', 812345682, 1),
+(20061006, 'Rani', '2004-07-18', 'Jalan Kamboja No. 17', 812345683, 0),
+(20061007, 'Agus', '2003-06-30', 'Jalan Flamboyan No. 4', 812345684, 1),
+(20061008, 'Tono', '2005-05-12', 'Jalan Tulip No. 33', 812345685, 1),
+(20061009, 'Lia', '2006-04-02', 'Jalan Cemara No. 29', 812345686, 0),
+(20061010, 'Putri', '2004-08-25', 'Jalan Jambu No. 13', 812345687, 1),
+(20061011, 'Rahmat', '2003-03-10', 'Jalan Merpati No. 45', 812345688, 1),
+(20061012, 'Fajar', '2002-10-19', 'Jalan Kesturi No. 14', 812345689, 0),
+(20061013, 'Aisyah', '2004-05-27', 'Jalan Seruni No. 88', 812345690, 1),
+(20061014, 'Yudi', '2003-02-13', 'Jalan Kemuning No. 7', 812345691, 0),
+(20061015, 'Febri', '2002-09-29', 'Jalan Bougenville No. 6', 812345692, 1),
+(20061016, 'Rizky', '2005-11-22', 'Jalan Teratai No. 21', 812345693, 1),
+(20061017, 'Dina', '2004-04-18', 'Jalan Cendana No. 32', 812345694, 1),
+(20061018, 'Bayu', '2006-07-09', 'Jalan Mangga No. 54', 812345695, 0),
+(20061019, 'Citra', '2003-06-11', 'Jalan Pinang No. 3', 812345696, 1),
+(20061020, 'Farhan', '2005-01-30', 'Jalan Rambutan No. 27', 812345697, 1);
